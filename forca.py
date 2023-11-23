@@ -1,6 +1,11 @@
 from random import choice
 import datetime
 from time import sleep
+'''
+O código foi desenvolvido com finalidade de mensurar as dificuldades encontradas em lógica de programação simples utilizando a linguagem Python 
+Este é bem simples e intuitivo e sua jogabilidade se dá através do terminal. 
+Algumas atribuições ainda vão ser inseridas neste código para melhorar seu desempenho e criar uma interface gráfica para se tornar mais atrativo. 
+Estudos no momento relativos a este código: como implementar uma API capaz de tornar possível a jogabilidade atráves de uma interface gráfica  visualmente agradável ao usuário e como adiconar mais opções de entrada como menus e barras de seleção.'''
 
 '''
 Duas funções, uma para introdução e outra para o menu do jogador.
